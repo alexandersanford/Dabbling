@@ -1,2 +1,2 @@
-# KillerSudokuSolver
-An attempt to find a computational solution to the game Killer Sudoku.
+# Dabbling
+This is a collection of my extracurricular activities.
